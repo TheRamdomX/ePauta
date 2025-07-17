@@ -1,0 +1,3 @@
+[submodule "epauta"]
+	path = epauta
+	url = https://github.com/polaarts/epauta
